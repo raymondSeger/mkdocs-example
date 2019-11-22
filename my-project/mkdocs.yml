@@ -1,0 +1,8 @@
+site_name: Raymond Docs Test
+nav:
+- Home: 'index.md'
+- About:
+    - 'License': 'license.md'
+- User Guide:
+    - 'Empty': 'empty.md'
+theme: readthedocs
